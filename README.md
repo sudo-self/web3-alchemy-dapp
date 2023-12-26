@@ -1,5 +1,5 @@
-# CW3D Dapp Boilerplate For Netlify
-
+# CW3D Dapp Boilerplate For Netlify<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/575173a2-e88d-401c-856f-c90c66e05899/deploy-status)](https://app.netlify.com/sites/quiet-horse-453a83/deploys)
 This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
